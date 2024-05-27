@@ -58,7 +58,7 @@ const DataTable = () => {
       AvgDailyProfit: 185.77,
       WinPer: 0.49,
       price: "-",
-      img: "https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/033/099/preview/yaro_picture.JPG?1595434863",
+      img: "https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/057/115/preview/OsMhQSGD_400x400.jpg?1507622068",
     },
     {
       rank: 7,

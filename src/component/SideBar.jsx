@@ -18,12 +18,12 @@ const SideBar = () => {
         </div>
         <div className="mt-8 text-center">
           <img
-            src="https://www.unfluke.in/static/media/monkey.5456259d.jpg"
+            src="https://s3.amazonaws.com/assets.materialup.com/users/pictures/000/033/099/preview/yaro_picture.JPG?1595434863"
             alt=""
             className="w-10 h-10 m-auto rounded-full object-cover lg:w-28 lg:h-28"
           />
           <h5 className="hidden mt-4 text-xl font-semibold text-gray-600 lg:block">
-            Noman Sipai
+            Kimora Cervantes
           </h5>
           <span className="hidden text-gray-400 lg:block">Admin</span>
         </div>
