@@ -165,7 +165,7 @@ const DataTable = () => {
                     {typeof item.price === "number" ? (
                       <a
                         href="#"
-                        className="bg-black text-xs font-bold hover:bg-gray-700 text-white py-2 px-5 rounded inline-flex items-center">
+                        className=" bg-gradient-to-r from-sky-600 to-cyan-400 text-xs font-bold hover:bg-gray-700 text-white py-2 px-5 rounded inline-flex items-center">
                         Buy
                       </a>
                     ) : (
