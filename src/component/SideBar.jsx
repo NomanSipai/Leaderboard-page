@@ -4,11 +4,6 @@ const SideBar = () => {
       <div>
         <div className="-mx-6 px-6 py-4">
           <a href="#" title="home">
-            {/* <img
-              src="https://tailus.io/sources/blocks/stats-cards/preview/images/logo.svg"
-              className="w-32"
-              alt="tailus logo"
-            /> */}
             <img
               className="w-[140px] -mt-3"
               src="https://www.unfluke.in/static/media/cropped_unfluke_full.148e5bfc.png"
