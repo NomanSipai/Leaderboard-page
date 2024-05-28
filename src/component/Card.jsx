@@ -7,7 +7,7 @@ const Card = () => {
           <div className="flex items-center justify-center gap-2 border-b border-stroke pb-5 xl:border-b-0 xl:border-r xl:pb-0">
             <div>
               <h4 className="mb-0.5 text-xl font-bold text-black md:text-title-lg">
-                4%
+                4.3
               </h4>
               <p className="text-sm font-medium">Calmar Ratio</p>
             </div>
