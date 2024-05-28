@@ -6,10 +6,10 @@ const Card = () => {
         <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-4 xl:gap-0">
           <div className="flex items-center justify-center gap-2 border-b border-stroke pb-5 xl:border-b-0 xl:border-r xl:pb-0">
             <div>
-              <h4 className="mb-0.5 text-xl font-bold text-black md:text-title-lg">
+              <h4 className="mb-0.5 text-xl font-bold text-black md:text-lg">
                 4.3
               </h4>
-              <p className="text-sm font-medium">Calmar Ratio</p>
+              <p className="text-sm font-medium text-gray-500">Calmar Ratio</p>
             </div>
             <div className="flex items-center gap-1">
               <svg
@@ -23,15 +23,19 @@ const Card = () => {
                   fill="#10B981"
                 />
               </svg>
-              <span className="text-sm font-medium text-meta-3">18%</span>
+              <span className="text-sm font-medium text-meta-3 text-[#10b981]">
+                18%
+              </span>
             </div>
           </div>
           <div className="flex items-center justify-center gap-2 border-b border-stroke pb-5 xl:border-b-0 xl:border-r xl:pb-0">
             <div>
-              <h4 className="mb-0.5 text-xl font-bold text-black md:text-title-lg">
+              <h4 className="mb-0.5 text-xl font-bold text-black md:text-lg">
                 55.9K
               </h4>
-              <p className="text-sm font-medium">Overall Profit</p>
+              <p className="text-sm font-medium text-gray-500">
+                Overall Profit
+              </p>
             </div>
             <div className="flex items-center gap-1">
               <svg
@@ -45,15 +49,19 @@ const Card = () => {
                   fill="#10B981"
                 />
               </svg>
-              <span className="text-sm font-medium text-meta-3">25%</span>
+              <span className="text-sm font-medium text-meta-3 text-[#10b981]">
+                25%
+              </span>
             </div>
           </div>
           <div className="flex items-center justify-center gap-2 border-b border-stroke pb-5 sm:border-b-0 sm:pb-0 xl:border-r">
             <div>
-              <h4 className="mb-0.5 text-xl font-bold text-black md:text-title-lg">
+              <h4 className="mb-0.5 text-xl font-bold text-black md:text-lg">
                 15%
               </h4>
-              <p className="text-sm font-medium">Avg. Daily Profit</p>
+              <p className="text-sm font-medium text-gray-500">
+                Avg. Daily Profit
+              </p>
             </div>
             <div className="flex items-center gap-1">
               <svg
@@ -67,15 +75,17 @@ const Card = () => {
                   fill="#F0950C"
                 />
               </svg>
-              <span className="text-sm font-medium text-meta-8">7%</span>
+              <span className="text-sm font-medium text-meta-8 text-[#f0950c]">
+                7%
+              </span>
             </div>
           </div>
           <div className="flex items-center justify-center gap-2">
             <div>
-              <h4 className="mb-0.5 text-xl font-bold text-black md:text-title-lg">
+              <h4 className="mb-0.5 text-xl font-bold text-black md:text-lg">
                 10%
               </h4>
-              <p className="text-sm"> Win %</p>
+              <p className="text-sm text-gray-500"> Win %</p>
             </div>
             <div className="flex items-center gap-1">
               <svg
@@ -89,7 +99,7 @@ const Card = () => {
                   fill="#10B981"
                 />
               </svg>
-              <span className="text-meta-3">12%</span>
+              <span className="text-meta-3 text-[#10b981]">12%</span>
             </div>
           </div>
         </div>
