@@ -126,7 +126,7 @@ const DataTable = () => {
                 Win %(Day)
               </th>
               <th scope="col" className="px-6 py-3">
-                $ Price
+                Price
               </th>
               <th scope="col" className="px-6 text-center py-3">
                 Action
@@ -141,7 +141,7 @@ const DataTable = () => {
                   className="bg-white border-b  hover:bg-gray-50 text-black font-semibold">
                   <th
                     scope="row"
-                    className="px-6  py-4 font-medium text-gray-900 whitespace-nowrap">
+                    className="px-6  py-4 font-medium text-gray-900 whitespace-nowrap text-center ">
                     {item.rank}
                   </th>
                   <td className="px-6 py-4 flex items-center text-blue-500 font-bold">
