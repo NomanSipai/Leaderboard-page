@@ -6,7 +6,7 @@ const Card = () => {
         <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-4 xl:gap-0">
           <div className="flex items-center justify-center gap-2 border-b border-stroke pb-5 xl:border-b-0 xl:border-r xl:pb-0">
             <div>
-              <h4 className="mb-0.5 text-xl font-bold text-black md:text-lg">
+              <h4 className="mb-0.5 text-xl font-bold text-black md:text-3xl">
                 4.3
               </h4>
               <p className="text-sm font-medium text-gray-500">Calmar Ratio</p>
@@ -30,7 +30,7 @@ const Card = () => {
           </div>
           <div className="flex items-center justify-center gap-2 border-b border-stroke pb-5 xl:border-b-0 xl:border-r xl:pb-0">
             <div>
-              <h4 className="mb-0.5 text-xl font-bold text-black md:text-lg">
+              <h4 className="mb-0.5 text-xl font-bold text-black md:text-3xl">
                 55.9K
               </h4>
               <p className="text-sm font-medium text-gray-500">
@@ -56,7 +56,7 @@ const Card = () => {
           </div>
           <div className="flex items-center justify-center gap-2 border-b border-stroke pb-5 sm:border-b-0 sm:pb-0 xl:border-r">
             <div>
-              <h4 className="mb-0.5 text-xl font-bold text-black md:text-lg">
+              <h4 className="mb-0.5 text-xl font-bold text-black md:text-3xl">
                 15%
               </h4>
               <p className="text-sm font-medium text-gray-500">
@@ -82,7 +82,7 @@ const Card = () => {
           </div>
           <div className="flex items-center justify-center gap-2">
             <div>
-              <h4 className="mb-0.5 text-xl font-bold text-black md:text-lg">
+              <h4 className="mb-0.5 text-xl font-bold text-black md:text-3xl">
                 10%
               </h4>
               <p className="text-sm text-gray-500"> Win %</p>
